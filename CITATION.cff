@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this course project or its code, please cite it as follows."
+title: "Clinical Characteristics of Antidepressant Treatment Escalation in Major Depressive Disorder"
+type: software
+authors:
+  - family-names: Mahdiani
+    given-names: Sina
+version: 1.0.0
+date-released: 2026-09-18
+url: "https://github.com/SinaMhdn95/HGEN603-TRD-All-of-Us-Analysis"
+repository-code: "https://github.com/SinaMhdn95/HGEN603-TRD-All-of-Us-Analysis"
+license: MIT

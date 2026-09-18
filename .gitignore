@@ -1,0 +1,36 @@
+# macOS and editor files
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Credentials and environment files
+.Renviron
+.Renviron.*
+.env
+.env.*
+
+# All of Us participant-level and derived data
+*.rds
+*.RDS
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.fst
+*.sav
+*.dta
+*.sqlite
+*.db
+bq_exports/
+data/
+outputs/
+
+# Generated analysis artifacts
+*.html
+*.docx
+*.log
+
+# Large presentation video is distributed as a GitHub release asset
+presentation/*.mp4
