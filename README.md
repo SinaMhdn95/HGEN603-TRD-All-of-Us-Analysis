@@ -58,11 +58,8 @@ The extraction scripts query BigQuery and write temporary exports to the workspa
 
 See [Data access and privacy](docs/DATA_ACCESS_AND_PRIVACY.md) and [Analysis workflow](docs/ANALYSIS_WORKFLOW.md) before running or adapting the project.
 
-## Acknowledgment
 
-We gratefully acknowledge All of Us participants for their contributions, without whom this research would not have been possible. We also thank the National Institutes of Health's All of Us Research Program for making available the participant data examined in this course project.
-
-This study used data from the All of Us Research Program's Controlled Tier Dataset v8, available to authorized users through the Researcher Workbench.
+### This study used data from the All of Us Research Program's Controlled Tier Dataset v8, available to authorized users through the Researcher Workbench.
 
 ## License
 
